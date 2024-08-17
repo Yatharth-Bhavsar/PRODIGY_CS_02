@@ -46,7 +46,7 @@ Image Encryption Tool Menu:
 Choose an option (1/2/3): 1
 Enter the path of the image to encrypt: path/to/your/image.jpg
 
-##🛠️ Implementation Details
+## 🛠️ Implementation Details
 Encryption/Decryption Key: The key used for encryption and decryption is fixed at +3 for encryption and -3 for decryption.
 File Names: The encrypted image is saved as encrypted_image.png and the decrypted image is saved as decrypted_image.png.
 
